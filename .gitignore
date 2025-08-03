@@ -1,0 +1,15 @@
+# Папка с зависимостями
+node_modules/
+
+# Папка с результатами сборки
+dist/
+build/
+
+# Файлы настроек среды
+.env
+config.js
+
+# Кэш редакторов и ОС
+.vscode/
+.DS_Store
+Thumbs.db
